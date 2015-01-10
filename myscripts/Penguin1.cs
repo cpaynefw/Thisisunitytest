@@ -20,7 +20,7 @@ public class Penguin1 : MonoBehaviour {
 		Vector3 dir = target.position - transform.position;
 		// remember, 10 - 5 is 5, so target - position is always your direction.
 		
-		
+		//testinggithub2 
 		// magnitude is the total length of a vector.
 		// getting the magnitude of the direction gives us the amount left to move
 		float dist = dir.magnitude;
