@@ -11,7 +11,7 @@ public class Penguin1 : MonoBehaviour {
 
 	// units per second
 	public float speed = 10;
-
+//testinggithub1
 	void Start() {
 		Invoke ("walk1", 3);
 		}
